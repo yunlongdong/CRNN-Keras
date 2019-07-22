@@ -11,4 +11,4 @@ batch_size = 128
 val_batch_size = 16
 
 downsample_factor = 4
-max_text_len = 9
+max_text_len = 8

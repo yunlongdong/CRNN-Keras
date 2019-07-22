@@ -1,0 +1,4 @@
+DB/train/*
+__pycache__
+*.hdf5
+
