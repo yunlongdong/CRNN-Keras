@@ -28,3 +28,9 @@ The CRNN model can be seen as following:
   ![](https://raw.githubusercontent.com/yunlongdong/CRNN-Keras/master/photo/99wj0971.jpg)
   
 * Refer to ```parameters.py``` and begin training by ```python training.py```.
+
+## Results
+* See ```Prediction.py``` for prediction on images.
+* Some result can be seen by:
+  
+  ![](https://raw.githubusercontent.com/yunlongdong/CRNN-Keras/master/photo/result.jpg)
