@@ -20,9 +20,11 @@ The CRNN model can be seen as following:
   DB/
     train/
       99ak0449.jpg
-      83fn0608.jpg
+      99wj0971.jpg
       ...
   ```
-  The filename(99ak0449) is the label.
+  The filename(99wj0971) is the label. The image can be seen by:
+  
+  ![](https://raw.githubusercontent.com/yunlongdong/CRNN-Keras/master/photo/99wj0971.jpg)
   
 * Refer to ```parameters.py``` and begin training by ```python training.py```.
